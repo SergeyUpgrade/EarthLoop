@@ -1,6 +1,6 @@
 from colorama import init
-init()
 from time import sleep
+init()
 print('\u001b[34m')
 print("""                 _-o#&&*''''?d:>b\\_
               _o/'`''  '',, dMF9MMMMMHo_
